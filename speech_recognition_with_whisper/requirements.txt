@@ -1,0 +1,10 @@
+numba
+numpy
+torch
+tqdm
+more-itertools
+tiktoken==0.3.3
+ffmpeg
+whisper
+transformers
+SpeechRecognition
